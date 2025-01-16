@@ -17,8 +17,18 @@ function reset() {
 
 }
 
-function button_creator() {
+function won() {
+    score = 100
+    scoreElement.innerHTML = `Score: ${score}`
+    alert("Congratulations! You won the game.")
+}
 
+function button_creator() {
+    const reset_button = document.createElement('button');
+    reset_button.textContent = 'Reset the Game';
+    reset_button.onclick = reset;
+    const container = document.getElementById('button-container');
+    container.appendChild(reset_button);
 }
 
 function loss() {
