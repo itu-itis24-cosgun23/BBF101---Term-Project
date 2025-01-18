@@ -16,6 +16,12 @@ section {
     width: 800px;
     border-width: 1px;
 }
+ 
+h2 {
+    font-family: Arial;
+    text-align: center;
+    padding-top: 75px;
+}
 
 #prediction {
     margin-left: 235px;
@@ -108,6 +114,3 @@ button {
     top: 600px; 
     z-index: 10;
 }
-
-
-

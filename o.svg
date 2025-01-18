@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="793.70081"
+   height="1122.5197"
+   viewBox="0 0 793.70081 1122.5197"
+   sodipodi:docname="o.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.24472712"
+     inkscape:cx="210.43847"
+     inkscape:cy="831.53843"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="793.70081"
+       height="1122.5197"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="m 950.04928,562.51694 c 0,307.69557 -249.42574,557.14096 -557.11475,557.14096 -307.695557,0 -557.1409,-249.41918 -557.16711,-557.08853 C -164.25876,254.87379 85.160352,5.402235 392.85593,5.3760392 700.55152,5.3236699 950.02308,254.74931 950.04928,562.44488 l -557.14094,0.0721 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.5516" />
+    <path
+       id="path2"
+       d="m 559.74466,562.51694 c 0,203.82007 -74.68163,369.09058 -166.78393,369.14298 C 300.85189,931.71252 226.15064,766.54011 226.09822,562.70039 226.04582,358.85412 300.675,193.53123 392.77728,193.38054 484.91235,193.2233 559.6398,358.31689 559.74466,562.16316 l -166.83632,0.35378 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.5516" />
+  </g>
+</svg>
